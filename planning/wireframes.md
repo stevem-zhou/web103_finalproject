@@ -4,9 +4,17 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
+<ul>
+<li>
 Login Page⭐
+</li>
+<li>
 Home Page⭐
+</li>
+<li>
 Course Review Page⭐
+</li>
+</ul>
 
 ## Wireframe 1: [Login Page]
 
@@ -19,4 +27,3 @@ Course Review Page⭐
 ## Wireframe 3: [Course Review]
 
 <img src="https://cdn.discordapp.com/attachments/721962382666104857/1167708570628919416/image.png?ex=654f1c5a&is=653ca75a&hm=7b1e179e7754b66316aba097b9dec9b9fc1c71162421fb34c986a406af7038d7&"/>
-
