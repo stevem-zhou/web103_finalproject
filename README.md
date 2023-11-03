@@ -24,7 +24,7 @@ Backend: Node, Express, APIs tbd
 
 ## Features
 
-### [Course Ratings/Reviews]
+### [Course Ratings]
 
 Users will be able to leave a rating for this class.
 
